@@ -111,7 +111,6 @@ class CallbackHandler(BaseHTTPRequestHandler):
             code = query["code"][0]
 
             print("authorization code received!")
-            print(code)
 
             #exchanges the authorization code for spotify access tokens
             token_response = requests.post(
