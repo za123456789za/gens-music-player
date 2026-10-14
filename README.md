@@ -52,9 +52,9 @@ Featuring a custom interface, a heart-shaped progress slider, and Spotify playba
 - **python-dotenv**
 - **PyInstaller**
 
-## ✦ Preview
+## Preview
 
-*Screenshots of the application will be added here.*
+![Gen's Music Player Screenshot](assets/screenshot.png)
 
 ## ✦ Requirements
 
